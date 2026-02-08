@@ -2,7 +2,7 @@ import React from 'react'
 
 function Profile() {
   return (
-    <div>Profile</div>
+    <div className='bg-purple-600'>Profile</div>
   )
 }
 
